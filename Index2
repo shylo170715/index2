@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
-<голова>
-<мета-кодировка +"utf-8">
+<head>
+<meta charset="utf-8">
 <title> Программа забезпечення
-</голова>
-<тело>
-<заголовок>
+</head>
+<body>
+<header>
 </header>
-<раздел>
-</раздел>
-<нижний колонтитул>
-</футер>
-</тело>
+<section>
+</section>
+<footer>
+</footer>
+</bode>
 </html>
 <>
 <>
